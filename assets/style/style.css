@@ -1,0 +1,14 @@
+button, div, form, input{
+	margin:10px;
+}
+
+#display-gifs{
+	width:60%;
+	float:left;
+}
+
+#build{
+	width:20%;
+	float:left;
+}
+
