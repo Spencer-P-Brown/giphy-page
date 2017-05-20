@@ -1,7 +1,16 @@
-button, div, form, input{
-	margin:10px;
+body{
+	box-sizing: border-box;
+}
+header{
+	margin-top:30px;
 }
 
+button, div, form, input {
+	margin:10px;
+}
+#add-some-gifs{
+	margin:10px;
+}
 #display-gifs{
 	width:60%;
 	float:left;
